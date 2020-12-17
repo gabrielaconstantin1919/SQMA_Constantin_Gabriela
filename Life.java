@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> a86d1bf25a890c537a0178ee596739dee846e810
 public class Life {
 	
 	private boolean balance;
