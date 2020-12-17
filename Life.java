@@ -1,5 +1,3 @@
-import org.w3c.dom.html.HTMLTableRowElement;
-
 public class Life {
 	
 	private boolean balance;
